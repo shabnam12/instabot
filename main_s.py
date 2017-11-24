@@ -8,7 +8,7 @@ from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 from graph import plotgraph
 
-APP_ACCESS_TOKEN = '5703461132.e1ef995.dc620dfcff1541cd81f42f9b91217e85'
+APP_ACCESS_TOKEN = '5703461132.e1ef995.dc620dfcff15141cd81f42f9b91217e85'
 BASE_URL = 'https://api.instagram.com/v1/'
 tag_list=[]
 '''
